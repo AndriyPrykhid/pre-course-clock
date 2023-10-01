@@ -29,6 +29,6 @@ stop.addEventListener('click', () => {
     }
 
 })
-updateClock();
+
 
 
